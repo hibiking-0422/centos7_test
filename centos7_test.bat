@@ -10,7 +10,7 @@ vagrant init bento/centos-7.3
 
 del Vagrantfile
 
-curl -O https://raw.githubusercontent.com/hibiking-0422/rails_install.sh/master/Vagrantfile
+curl -O https://raw.githubusercontent.com/hibiking-0422/centos7_test/master/Vagrantfile
 
 vagrant up --provision
 
