@@ -5,8 +5,8 @@
 vagrant(https://www.vagrantup.com/)とvirtualbox(https://www.virtualbox.org/)はあらかじめ入れといてね
 -----------------------------------------------------------------------
 たった３回コマンドを打つだけでおけ！
-$curl -O https://raw.githubusercontent.com/hibiking-0422/rails_install.sh/master/vagrant.bat
-$vagrant.bat
+$curl -O https://raw.githubusercontent.com/hibiking-0422/centos7_test/master/centos7_test.bat
+$centos7_test.bat
 $bash <(curl -s https://raw.githubusercontent.com/hibiking-0422/rails_install.sh/master/rails6.0_install.sh)
 -----------------------------------------------------------------------
 commentout
